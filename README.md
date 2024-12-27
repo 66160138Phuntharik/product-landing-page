@@ -16,3 +16,6 @@
 - git commit -m "เพิ่มส่วนแสดงคุณสมบัติ     พร้อมการ์ด"
 - git add index.html 
 - git commit -m "เพิ่มส่วนท้ายแบบ Responsive"
+- git checkout development 
+- git merge feature/home-page 
+- git push origin development 
